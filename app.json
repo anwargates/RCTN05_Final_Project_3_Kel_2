@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "RCTN05_KELOMPOK_2-final_project_3",
+    "slug": "RCTN05_KELOMPOK_2-final_project_3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.ahmad_saifullah.RCTN05_KELOMPOK_2final_project_3"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
